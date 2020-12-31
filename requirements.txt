@@ -1,0 +1,8 @@
+future==0.18.2
+numpy==1.19.1
+opencv-contrib-python==4.4.0.42
+Pillow==7.2.0
+torch==1.7.1+cu110
+torchaudio==0.7.2
+torchvision==0.8.2+cu110
+typing-extensions==3.7.4.3
